@@ -26,7 +26,16 @@ Scouts Victoria is a Child Safe organisation. We are inclusive of all, regardles
 
 All of our adult members (anyone registered as a member and over the age of 18) are required to hold a Working With Children Check. This includes Leaders, Rover Scouts, Adult Helpers, and committee members.
 
-For more information, visit Scouts Victoria's <a href="http://www.vicscouts.com.au/about-us/child-safe-scouting.html" target="_blank">Child Safe Scouting</a> page.
+For more information, visit Scouts Victoria's <a href="http://scoutsvictoria.com.au/join-the-adventure/child-safe-scouting/" target="_blank">Child Safe Scouting</a> page.
+
+### What Age Group is Scouts? ###
+Scouting offers adventure to boys and girls, men and women, of all ages. It can be a 20-year experience through the different age levels, or you can step straight in for the first time at any age along the way.  
+
+Our youngest members are Joey Scouts, aged 5-7 years. As long as they’re already at primary school, these children are welcome to join us and get an early start to the fun, friendship and skills they’ll experience through Scouts. 
+
+The next age group is for Cub Scouts (7-10 years), followed by Scouts (10-15 years), Venturers (15-17 years), and Rovers (18-25 years).
+
+Our Leaders are adult members (18 and over) who support our younger members, organise activities and generally make things happen. If you’re an active, outdoors person who enjoys inspiring others, regardless of whether you’ve been a Scout before, please [contact us](gl.2nd-3rdbayswater@scoutsvictoria.com.au).
 
 ### What is the Uniform? ###
 
