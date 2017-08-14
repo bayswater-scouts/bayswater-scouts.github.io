@@ -13,10 +13,10 @@ We offer a free trial while your child tries out Scouts and decides if they want
 
 Once your child joins us, there are several fees to be paid. We do have flexible payment plans available, as it is our position that no child should miss out on Scouting due to financial hardship.
 
-* **Scouts Victoria Membership Fee:** This fee goes towards things like insurance, compliance, and the professional support staff at Scouts Victoria.
-* **2nd/3rd Bayswater Group Fee:** This fee goes towards things like our power and water bills, Group equipment, and Leader training. 
-* **Maintenance Levy:** This levy is charged on a per-family basis. It is a contribution to the upkeep of our hall, and is refunded to those families who contribute to our working bees, which are held twice a year.
-* **Subs:** This is a small fee charged each term for supplies used during weekly meetings.
+* **Scouts Victoria Membership Fee:** This annual fee goes towards things like insurance, compliance, and the professional support staff at Scouts Victoria.
+* **2nd/3rd Bayswater Group Fee:** This annual fee goes towards things like our power and water bills, Group equipment, and Leader training. 
+* **Maintenance Levy:** This annual levy is charged on a per-family basis. It is a contribution to the upkeep of our hall, and is refunded to those families who contribute to our working bees, which are held twice a year.
+* **Subs:** This is a small fee charged each term for supplies used during weekly meetings. 
 
 There are additional charges for camps and some out of hall activities, and discounts for the children of our volunteer leaders.
 
@@ -50,6 +50,6 @@ When you first meet with the Section Leader, it’s very important to discuss an
 
 ### Where are you? ###
 
-Our Scout Hall is located at the corner of Station Street and Bayswater Road, Bayswater.
+Our Scout Hall is located at the corner of Station Street and Bayswater Road in Bayswater.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3150.6973060402397!2d145.26756581475902!3d-37.8439715797469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad63b9e2ea9f057%3A0x35370a9a00e8b050!2s2%2F3rd+Bayswater+Scout+Group!5e0!3m2!1sen!2sau!4v1501986001136" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>

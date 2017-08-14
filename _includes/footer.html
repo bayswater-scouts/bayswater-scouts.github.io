@@ -18,24 +18,9 @@
 
     <div class="site-contact">
       <p><strong>Membership & General Enquiries</strong></p>
-      <ul class="social-media-list">
-        <li>Jon Franklin<br>
-       <a href="tel:0397625547"><i class="fa fa-phone"></i> <span class="username" style="font-size:smaller;">(03) 9762 5547</span></a><br>
-        <a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o"></i> <span class="username" style="font-size:smaller;">{{ site.email }}</span></a>
-        </li>
-
-        {% for social in site.social %}
-          {% if social.url != null %}
-          <li>
-            <a href="{{ social.url }}" title="{{ social.desc }}">
-              <i class="fa fa-{{ social.icon }}"></i>
-              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
-            </a>
-          </li>
-          {% endif %}
-        {% endfor %}
-
-      </ul>
+      <p>Jon Franklin<br>
+        <a href="tel:0397625547"><i class="fa fa-phone"></i> <span class="username" style="font-size:smaller;">(03) 9762 5547</span></a><br>
+        <a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o"></i> <span class="username" style="font-size:smaller;">{{ site.email }}</span></a></p>
     </div>
 
     <div class="site-signature">
@@ -50,7 +35,7 @@
           </li>
           {% endif %}
         {% endfor %}
-		<p style="font-size:smaller;">&copy; {{ site.time | date: '%Y' }} 2nd/3rd Bayswater Scouts</p>
+		<p style="font-size:x-small;">&copy; {{ site.time | date: '%Y' }} 2nd/3rd Bayswater Scouts</p>
     </div>
   </div>
 </footer>
