@@ -46,13 +46,24 @@ highlightjs_theme: "monokai-sublime"
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
-#descriptions:
-#  - cat: Joeys
-#    desc: "Posts describing Jekyll setup techniques."
-#
-#  - cat: dummy
-#    desc: "Just some placeholder posts, lorem ipsum and the rest."
+descriptions:
+  - cat: Joeys
+    desc: "Posts about our Joey Scout Mob."
 
+  - cat: Cubs
+    desc: "Posts about our Cub Scout Pack."
+
+  - cat: Scouts
+    desc: "Posts about our Scout Troop."
+
+  - cat: Venturers
+    desc: "Posts about Stringybark Venturer Unit."
+    
+  - cat: Rovers
+    desc: "Posts about Birubi Rover Crew."
+
+  - cat: General
+    desc: "The other posts!"        
 # Social icons and sharing options
 #
 # Social settings are used in two places:
